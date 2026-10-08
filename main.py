@@ -22,3 +22,7 @@ if numbers:
         print(f"{num_to_check} is a prime number.")
     else:
         print(f"{num_to_check} is not a prime number.")
+
+def sortArray():
+    return
+
