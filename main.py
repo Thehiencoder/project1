@@ -23,8 +23,5 @@ if numbers:
     else:
         print(f"{num_to_check} is not a prime number.")
 
-def countPrimes():
-    pass
 def sortArray():
     return
-
