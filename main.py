@@ -25,4 +25,3 @@ if numbers:
 
 def sortArray():
     return
-
