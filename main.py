@@ -25,3 +25,6 @@ if numbers:
 
 def countPrimes():
     pass
+def sortArray():
+    return
+
