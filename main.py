@@ -27,3 +27,5 @@ def countPrimes():
     pass
 def sortArray():
     return
+
+print("Hello")
